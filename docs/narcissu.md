@@ -4,7 +4,7 @@
 
 <!--more-->
 
- ![img](https://sekaistatic.com/img/narcissu/00002.jpeg)
+ ![img](https://sekaistatic.com/images/narcissu/00002.jpeg)
 
 > 一段灿烂的回忆
 >
@@ -24,7 +24,7 @@
 
 > 从小时候起，我的身体就很虚弱。但是，我也拥有和其他孩子一样的小学时代，那时到了暑假，我也会在外边一直玩耍到皮肤被晒黑。
 >
-> ![img](https://sekaistatic.com/img/narcissu/00004.jpeg)
+> ![img](https://sekaistatic.com/images/narcissu/00004.jpeg)
 >
 > 6月，在我刚刚进入初中的那年，在我满怀兴致地订购了体育课泳装的第二天。那一天，我头一次尝到了住院的滋味。那是第一学期期中考试之前，梅雨降临不久后的一个寒冷刺骨的日子，下着梅雨的苍白的天空。
 >
@@ -40,7 +40,7 @@
 >
 > 从那时起，我的时间就静止了……
 
-![img](https://sekaistatic.com/img/narcissu/00005.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00005.jpeg)
 
 ###### ■8年后　2004年　主人公　初夏■
 
@@ -377,7 +377,7 @@
 
 尽管嘴里一如往常说着`没什么`，但可以看出，她的反应与平时大不相同。因此，我也好奇地朝电视画面看去。屏幕上正呈现出山水的风景。在美丽的山野中，错落有致地生长着各种花草树木。其中尤为耀眼的，是一些星星点点的白色花朵，那是一种我见过的花，与床边摆放着的那盆白色花朵非常相似。
 
-![img](https://sekaistatic.com/img/narcissu/00007.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00007.jpeg)
 
 ```
 莫非，它们是同一种花吗？
@@ -420,7 +420,7 @@
 
 说着，她第一次转过头来面对着我。她摇动着齐腰的长发，指着电视上的花朵，凝视着我。卷在手腕上的白色塑料手环，映衬着她雪白的肌肤，如同画面中的花朵一般。从她那第一次凝视着我的表情中，我似乎看到了一丝淡淡的微笑。
 
-![img](https://sekaistatic.com/img/narcissu/00008.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00008.jpeg)
 
 ## Chapter 2　银色的酷派
 
@@ -581,7 +581,7 @@
 
 说完，父亲起身离开了，似乎是走向了以前去过的那间昏暗的客厅。病房里只剩下我一个人，因为无事可做，我将手伸向了父亲买来的杂志。在杂志旁边，还堆积着一些探病用的水果和饮料。在水果篮的旁边，在我讨厌的哈密瓜前面，摆放在那里的……是一把车钥匙。
 
-![img](https://sekaistatic.com/img/narcissu/00009.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00009.jpeg)
 
 ```
 ……
@@ -621,7 +621,7 @@
 
 沙沙——刚来到屋外，冰冷的枯叶便拍打在我的脸上。在这种没有障碍物的停车场，寒风越发强烈。我们俩小心注意着周围的目光，在宽广的停车场中穿行。就这样，片刻后，我们终于找到了父亲的车——银色的酷派。这是父亲进行过内部装修的爱车。
 
-![img](https://sekaistatic.com/img/narcissu/00010.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00010.jpeg)
 
 我立刻拿出钥匙打开了车门，喀嚓。
 
@@ -739,7 +739,7 @@
 
 店内空无一人。
 
-![img](https://sekaistatic.com/img/narcissu/00011.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00011.jpeg)
 
 咕隆咕隆……其中1台烘干机正在运作。
 
@@ -849,7 +849,7 @@
 
 在她视线的前方，被雨烟笼罩的挡风玻璃对面，几束雪白的花朵绽放在路边。伫立在雨中的白色花朵，尽管不知道那是别人种植的还是野生的，但我曾经见过这种花。
 
-![img](https://sekaistatic.com/img/narcissu/00012.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00012.jpeg)
 
 ```
 记得这种花是叫ナル……ナルキス吧？
@@ -951,7 +951,7 @@
 
 这里是一片陌生的海滨。不觉间，我们来到了海岸线旁。我本打算向西行进，但却在不知不觉中来到了南边。呼——冰冷的风吹在海滨与夜空之间。我们走出车外，注视着黯淡的大海。她依然面无表情地注视着远方。漆黑的海水与天空，在视线尽头融为一体。在凝视了片刻后，她慢慢地向海水走去。
 
-![img](https://sekaistatic.com/img/narcissu/00013.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00013.jpeg)
 
 ```
 呐，你认为会怎样呢？
@@ -1011,7 +1011,7 @@
 
 说完，我扭转方向盘，向不远处的加油站驶去。
 
-![img](https://sekaistatic.com/img/narcissu/00014.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00014.jpeg)
 
 ```
 欢迎光临！请问是您要刷卡支付，还是现金支付呢？
@@ -1163,7 +1163,7 @@
 
 我将她留在车内，一个人走向赌场。店里比想象中还要热闹，赌博机的数量和顾客的人数都很多。还有很多人在脚边摞起了几箱筹码。或许这正是下手的好机会。想到这里，我向老虎机的方向走去。
 
-![img](https://sekaistatic.com/img/narcissu/00015.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00015.jpeg)
 
 我在走廊上细心地观察了一下周围的情况，之后，瞄住了其中的1台。那是一位典型的工薪阶层男性。他的脚边堆着4箱筹码，头顶的架子上也摆着2箱。而且这台老虎机正处于拐角处，旁边的一台又是空闲的。从刚才的观察来看，他似乎也不像是与朋友一起来的。
 
@@ -1761,7 +1761,7 @@
 
 岸边，我们走出车子，眺望着湖面。在强风的吹动下，积雪渐渐地将漂着冰块湖面染成白色。她缓慢地向湖边走去。我以前也曾目睹过这幅景象。
 
-![img](https://sekaistatic.com/img/narcissu/00016.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00016.jpeg)
 
 ```
 呐，你认为会怎样呢？
@@ -1962,7 +1962,7 @@
 
 喀——我穿过开闭缓慢的自动门，来到店里，径直走向了柜台。
 
-![img](https://sekaistatic.com/img/narcissu/00017.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00017.jpeg)
 
 售货员：`欢迎光临！`
 
@@ -2181,7 +2181,7 @@
 
 咔嚓！
 
-![img](https://sekaistatic.com/img/narcissu/00018.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00018.jpeg)
 
 满意地拍完照片后，那对情侣返回了车子。我们也向自己的车子走去。
 
@@ -2225,7 +2225,7 @@
 
 当太阳渐渐化作橙色的时候，无人的海滩上，冰冷的强风摇动着松林。驶入沙滩以后，我将驾驶席让给了她。
 
-![img](https://sekaistatic.com/img/narcissu/00019.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00019.jpeg)
 
 ```
 怎么样，踩得到离合器吗？
@@ -2353,7 +2353,7 @@
 
 夜色渐渐消逝，旭日渐渐地将黑夜的深紫色染作了淡白色。无垠的白色花丛在晨光中起伏着……
 
-![img](https://sekaistatic.com/img/narcissu/00020.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00020.jpeg)
 
 本是漆黑一片的原野，被渐渐地涂成了白色与黄色。我们不由地走出车外，注视着这幅美景。
 
@@ -2364,7 +2364,7 @@
 
 浮现在眼前的，是数不清的水仙。夜露在朝日的照耀下，让白色的花丛更显得晶莹剔透。宛如一条铺向大海的巨大绒毯。
 
-![img](https://sekaistatic.com/img/narcissu/00021.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00021.jpeg)
 
 我们望着这一切交谈着。连气息也化作了同样洁白的雾汽。那一天，我们在无聊的电视画面中眺望着那些花朵。而今天，我们则确确实实地站在了这里。我们的心中原本没有任何目标，但现在，我们却追逐到了自己的目标。
 
@@ -2467,7 +2467,7 @@
 >
 > 在这个只看得到自己的世界里，我送走了不知多少个季节，多少次下着梅雨的苍白天空……
 >
-> ![img](https://sekaistatic.com/img/narcissu/00022.jpeg)
+> ![img](https://sekaistatic.com/images/narcissu/00022.jpeg)
 >
 > 究竟是从何时开始，我变得如此孤独了呢？尽管闭上双眼，身边的世界也不会就此消失；即使堵住耳朵，雨声也不会停止。我心里很清楚这一切。无论是比基尼泳装，翡翠色的大海，还是满脸微笑的偶像封面，都不会使我感到嫉妒。在闭上双眼的世界中，即使没有车和地图，我同样可以漫步于任何城镇。即使没有心口的伤痕在时刻提醒着我，即使这世界就是ナルキッソス的化身，而我则扮演着艾歌……
 >
@@ -2631,7 +2631,7 @@
 
 说着……她第一次对着我笑了。她穿着心爱的裙子，与白色的比基尼……在一次性相机的最后一张照片中对着我笑了，在翡翠色的大海前对着我笑了，仿佛偶像明星一般，对着我笑了……
 
-![img](https://sekaistatic.com/img/narcissu/00023.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00023.jpeg)
 
 ```
 好，接下来，再试着摆个更有动感的姿势吧。
@@ -2709,14 +2709,14 @@
 
 **遗憾的是……她的笑容，却仅仅被记录在了一张由一次性相机拍摄的照片中。但是……尽管是仅存的一张照片……它也是我们所留下的痕迹……**
 
-![img](https://sekaistatic.com/img/narcissu/00024.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00024.jpeg)
 
 
 ------
 
 ## 后　记
 
-![img](https://sekaistatic.com/img/narcissu/00025.jpeg)
+![img](https://sekaistatic.com/images/narcissu/00025.jpeg)
 
 感谢您阅读 STAGE NANA VOL24 “Narcissu”。
 
